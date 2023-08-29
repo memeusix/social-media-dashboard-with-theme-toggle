@@ -42,6 +42,7 @@ html[data-theme = "dark"]{
     --light_grayish_blue_cardBG: hsl(228, 28%, 20%);
     --dark_grayish_blue_text:hsl(228, 34%, 66%) ;
     --vary_dark_blue_text: hsl(0, 0%, 100%);
+    --hover_color: hsl(231, 19%, 27%);
 }
 
 
