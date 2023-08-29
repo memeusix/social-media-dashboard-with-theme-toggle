@@ -73,7 +73,6 @@ header {
 header .title {
     font-size: 24px;
     font-weight: bold;
-    line-height: 0;
     color: var(--vary_dark_blue_text);
 }
 
